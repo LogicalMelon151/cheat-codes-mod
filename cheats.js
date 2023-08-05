@@ -36,7 +36,7 @@ let cheatList = [
 
 
     //   Amongus
-    newCheat("amongus", "a m o n g u s", () => {
+    newCheat("amongus", "a m o n g u s i n t r o", () => {
         sounds.amongus.play()
     }),
 
@@ -46,7 +46,7 @@ let cheatList = [
     }),
 
     //    Temporarily Increase speed
-    newCheat("quick brown fox", "t h e q u i c k b r o w n f o x j u m p e d o v e r t h e l a z y d o g", () => {
+    newCheat("quick brown fox", "q u i c k b r o w n f o x", () => {
         let playerUnit = Vars.player.unit()
         playerUnit.apply(effects.quickfox, 60 * 60 * 2)
 
