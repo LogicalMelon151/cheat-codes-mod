@@ -6,9 +6,9 @@ Only works in game.<br>
 # List of cheats
 | Name             | Effects                                              |  Code                                  |
 | -------------    | -------------                                        | ---                                    |
-| Amongus          | Plays the Among Us intro                             |  "amongus"                             |
-| Quick Brown Fox  | Increases player speed                               | "thequickbrownfoxjumpedoverthelazydog" |
-| Wind3            | Plays wind3.ogg                                      | "wind3"                                |
+| Amongus          | Plays the Among Us intro                             | "amongusintrosound"                    |
+| Quick Brown Fox  | Increases player speed                               | "quickbrownfox"                        |
+| Wind3            | Plays wind3.ogg                                      | "wind3sound"                           |
 | Konami           | Multiplies player health by 30                       | "wwssadadba" enter                     |
 | God Mode         | Player will be temporarily immune to damage          | "loremipsumdolorsitamet"               |
 | Rumbling         | Launches burning Toxopids around you                 | "therumblingishere"                    |
