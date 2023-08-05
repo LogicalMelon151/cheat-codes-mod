@@ -36,7 +36,7 @@ let cheatList = [
 
 
     //   Amongus
-    newCheat("amongus", "a m o n g u s i n t r o", () => {
+    newCheat("amongus", "a m o n g u s i n t r o s o u n d", () => {
         sounds.amongus.play()
     }),
 
@@ -54,7 +54,7 @@ let cheatList = [
     }),
     
     //    Self explanatory
-    newCheat("wind3", "w i n d num3", () => {
+    newCheat("wind3", "w i n d num3 s o u n d", () => {
         Sounds.wind3.play()
     }),
 
