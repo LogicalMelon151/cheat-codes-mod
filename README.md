@@ -1,4 +1,20 @@
 # Cheat Codes Mod
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+![Static Badge](https://img.shields.io/badge/yay-02e0bd)
+
 Adds GTA San Andreas style cheat codes to Mindustry.<br>
 To activate them, simply type out the strings of text corresponding to them until something happens.<br>
 Mistakes and typos will reset the strings, so make sure you type them out correctly.<br>
